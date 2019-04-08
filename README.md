@@ -8,3 +8,10 @@ Task: Fractol is a project aimed at exploring fractals, mathematical sets that e
 
 Fractol is written in C language with the use of the library mlx(minilibx).
 
+## INSTALL
+```
+git clone https://github.com/Oka043/Fract-ol.git
+cd Fract-ol
+make 
+./fractol fractal_name 
+```
